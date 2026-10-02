@@ -1,4 +1,4 @@
-# DevSecOps Project: Secure CI/CD Pipeline on Local Ubuntu Using Jenkins, SonarQube & Trivy (100% Free)
+# DevSecOps Project: Secure CI/CD Pipeline on Local Ubuntu Using Jenkins, SonarQube & Trivy
 
 A hands-on DevOps project that brings together Jenkins, SonarQube, and Trivy — all running locally with Docker Compose — to create a cost-free and secure CI/CD pipeline.
 
